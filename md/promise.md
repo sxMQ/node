@@ -42,9 +42,9 @@ promise.then(function(value){
 },function(error){
     //failure
 })
-```
+```node/html/promise.html
 
-+ 实例一[链接](https://sxMQ.github.io/note/html/promise.html)
++ 实例一[链接](https://note/html/promise.html)
 ```
 //es6 Promise对象
 const promise = new Promise(function(resolve,reject){
