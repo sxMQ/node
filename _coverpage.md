@@ -1,10 +1,10 @@
-<img src="./media/cssbg.png" width="380" alt="">
+<img src="./media/bg.png" width="900" alt="">
 
 # ES6笔记
 
-> 闫晓波 <span style="font-size: 16px;"></span>
+> 马倩 <span style="font-size: 16px;"></span>
 
-- ybogitchi@yeah.net
+- www.zixinqian.top
 
 
 [Get Started](README)
